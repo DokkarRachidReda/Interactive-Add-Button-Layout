@@ -42,4 +42,4 @@ you can find a demo app in `./example`
 <img src="https://github.com/DokkarRachidReda/Interactive-Add-Button-Layout/blob/master/add_button.gif" width="300"/>
 
 ## Contribution 
-Feel free to contribute, to report a bug or  to suggest a feature, Thank you :)
+Feel free to contribute, to report a bug or  to suggest a feature,Thank you :)
