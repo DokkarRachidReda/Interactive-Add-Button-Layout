@@ -2,6 +2,8 @@
 
 Custom Layout with interactive add button to impove your UI and UX .
 
+the package is available [here](https://pub.dev/packages/interactive_add_button_layout)
+
 inspired from [Oleg Frolov](https://dribbble.com/shots/6558740-Add-Button-Interaction).
 
 ## Usage 
